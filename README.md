@@ -1,8 +1,6 @@
 # When Does Self-Supervision Help Graph Convolutional Networks?
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-
-Code for [When Does Self-Supervision Help Graph Convolutional Networks?]()
+Code for [When Does Self-Supervision Help Graph Convolutional Networks?](https://arxiv.org/abs/2006.09136) [[supplement]](https://yyou1996.github.io/files/icml2020_ssgcn_supplement.pdf)
 
 Yuning You<sup>\*</sup>, Tianlong Chen<sup>\*</sup>, Zhangyang Wang, Yang Shen
 
@@ -34,8 +32,13 @@ pip install METIS==0.2a.4
 
 ## Citation
 
-If you are use this code for you research, please cite our paper.
+If you use this code for you research, please cite our paper.
 
 ```
-TBD
+@article{you2020does,
+  title={When Does Self-Supervision Help Graph Convolutional Networks?},
+  author={You, Yuning and Chen, Tianlong and Wang, Zhangyang and Shen, Yang},
+  journal={arXiv preprint arXiv:2006.09136},
+  year={2020}
+}
 ```
